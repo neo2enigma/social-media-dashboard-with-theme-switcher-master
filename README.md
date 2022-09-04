@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/neo2enigma/social-media-dashboard-with-theme-switcher-master)
-- Live Site URL: (https://neo2enigma.github.io/social-media-dashboard-with-theme-switcher-master/)
+-  [Add solution URL here](https://github.com/neo2enigma/social-media-dashboard-with-theme-switcher-master)
+-  [Add live site URL here](https://neo2enigma.github.io/social-media-dashboard-with-theme-switcher-master/)
 
 ## My process
 
