@@ -65,7 +65,8 @@ header {
 
 main {
     position: relative;
-    width: 375px;
+    width: 325px;
+    /* width: 375px; */
     top: -199px;
     margin: auto;
 
@@ -150,7 +151,11 @@ img {
     width: 326px;
     border-radius: 5px;
     cursor: pointer;
+    transition: width .25s;
+}
 
+.card:hover {
+    width: 300px;
 }
 
 .cards-summary {
@@ -416,6 +421,10 @@ input:checked+.slider:before {
     .cards-overview .card {
         margin-bottom: 24px;
     }
+
+    .card:hover {
+        width: 330px;
+    }
 }
 
 @media screen and (min-width: 1110px) {
@@ -495,6 +504,11 @@ input:checked+.slider:before {
         margin-right: 13px;
         vertical-align: middle;
     }
+
+    .card:hover {
+        width: 310px;
+    }
+
 }
 
 
